@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="700" viewBox="0 0 2200 700" role="img" aria-labelledby="title desc">
+<title id="title">CaseSphere horizontal logo</title>
+<desc id="desc">CaseSphere circular C mark with wordmark.</desc>
+<g transform="translate(40,20)">
+  <g fill="none" stroke-linecap="butt">
+    <circle cx="330" cy="330" r="240" stroke="#001A3D" stroke-width="76"
+            stroke-dasharray="1230 278" transform="rotate(-38 330 330)"/>
+    <circle cx="330" cy="330" r="122" stroke="#1267D9" stroke-width="36"
+            stroke-dasharray="214 553" transform="rotate(-42 330 330)"/>
+  </g>
+  <circle cx="330" cy="330" r="55" fill="#1267D9"/>
+</g>
+<text x="760" y="405"
+      font-family="Montserrat, Avenir Next, Arial, Helvetica, sans-serif"
+      font-size="170" font-weight="500" letter-spacing="22">
+  <tspan fill="#001A3D">CASE</tspan><tspan fill="#1267D9">SPHERE</tspan>
+</text>
+</svg>

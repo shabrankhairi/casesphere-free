@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<title id="title">CaseSphere icon</title>
+<g fill="none" stroke-linecap="butt">
+  <circle cx="512" cy="512" r="330" stroke="#001A3D" stroke-width="104"
+          stroke-dasharray="1690 382" transform="rotate(-38 512 512)"/>
+  <circle cx="512" cy="512" r="168" stroke="#1267D9" stroke-width="50"
+          stroke-dasharray="295 761" transform="rotate(-42 512 512)"/>
+</g>
+<circle cx="512" cy="512" r="76" fill="#1267D9"/>
+</svg>
