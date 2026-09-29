@@ -1,0 +1,30 @@
+# Source code — not distributed
+backend/
+frontend/
+nginx/
+scripts/
+
+# Build & config files
+node_modules/
+dist/
+.env
+.env.*
+*.sql
+
+# Docker & build scripts
+Dockerfile
+docker-compose*.yml
+build.sh
+install.sh
+start.sh
+Makefile
+package.json
+package-lock.json
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+backups/
+uploads/
+logs/
